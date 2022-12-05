@@ -2,7 +2,7 @@
 
 Fontbakery version: 0.8.7
 
-<details><summary><b>[23] BIZUDPMincho-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
+<details><summary><b>[22] BIZUDPMincho-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
 * [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
 
 * 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
@@ -80,16 +80,16 @@ But got:  "BIZ UDP明朝". [code: non-ribbi-bad-value]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph00475
-	- glyph00336
-	- glyph12310
-	- glyph00723
-	- glyph00471
-	- glyph13455
-	- glyph00302
-	- glyph00332
-	- glyph13000
-	- glyph01074 
+	- glyph12962
+	- glyph00973
+	- glyph01307
+	- glyph00333
+	- glyph12265
+	- glyph00145
+	- glyph00889
+	- glyph00363
+	- glyph13045
+	- glyph00900 
 	- And 1113 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -116,10 +116,6 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** chws feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-chws-feature]
 * ⚠ **WARN** vchw feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-vchw-feature]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if OS/2 xAvgCharWidth is correct.</summary><div>
-* [com.google.fonts/check/xavgcharwidth](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.google.fonts/check/xavgcharwidth)
-
-* ⚠ **WARN** OS/2 xAvgCharWidth is 1808 but it should be 1964 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary><div>
 * [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
 
@@ -161,7 +157,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * u24E37 (U+24E37): L<<1270.0,1520.0>--<1675.0,1522.0>> and 182 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[23] BIZUDMincho-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
+</div></details><br></div></details><details><summary><b>[22] BIZUDMincho-Black.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
 * [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
 
 * 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
@@ -244,16 +240,16 @@ But got:  "BIZ UD明朝". [code: non-ribbi-bad-value]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph12051
-	- glyph01623
-	- glyph12225
-	- glyph12079
-	- glyph01271
-	- glyph12110
-	- glyph12169
-	- glyph13326
-	- glyph13679
-	- glyph01383 
+	- glyph01765
+	- glyph01710
+	- glyph12171
+	- glyph13789
+	- glyph12069
+	- glyph01870
+	- glyph01346
+	- glyph13746
+	- glyph13300
+	- glyph12129 
 	- And 1285 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -280,10 +276,6 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** chws feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-chws-feature]
 * ⚠ **WARN** vchw feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-vchw-feature]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if OS/2 xAvgCharWidth is correct.</summary><div>
-* [com.google.fonts/check/xavgcharwidth](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.google.fonts/check/xavgcharwidth)
-
-* ⚠ **WARN** OS/2 xAvgCharWidth is 1706 but it should be 1963 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary><div>
 * [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
 
@@ -321,7 +313,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * u24E37 (U+24E37): L<<1270.0,1520.0>--<1675.0,1522.0>> and 182 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[22] BIZUDPMincho-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
+</div></details><br></div></details><details><summary><b>[21] BIZUDPMincho-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
 * [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
 
 * 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
@@ -390,16 +382,16 @@ But got:  "BIZ UDP明朝" [code: bad-entry]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph00475
-	- glyph00336
-	- glyph12310
-	- glyph00723
-	- glyph00471
-	- glyph13455
-	- glyph00302
-	- glyph00332
-	- glyph13000
-	- glyph01074 
+	- glyph12962
+	- glyph00973
+	- glyph01307
+	- glyph00333
+	- glyph12265
+	- glyph00145
+	- glyph00889
+	- glyph00363
+	- glyph13045
+	- glyph00900 
 	- And 1113 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -424,10 +416,6 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** chws feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-chws-feature]
 * ⚠ **WARN** vchw feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-vchw-feature]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if OS/2 xAvgCharWidth is correct.</summary><div>
-* [com.google.fonts/check/xavgcharwidth](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.google.fonts/check/xavgcharwidth)
-
-* ⚠ **WARN** OS/2 xAvgCharWidth is 1796 but it should be 1960 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary><div>
 * [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
 
@@ -469,7 +457,7 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-jaggy-s
  * uni4E9F (U+4E9F): L<<984.0,1059.0>--<985.0,1174.0>> and 103 more.
 
 Use -F or --full-lists to disable shortening of long lists. [code: found-semi-vertical]
-</div></details><br></div></details><details><summary><b>[22] BIZUDMincho-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
+</div></details><br></div></details><details><summary><b>[21] BIZUDMincho-Regular.ttf</b></summary><div><details><summary>💔 <b>ERROR:</b> Check METADATA.pb includes production subsets.</summary><div>
 * [com.google.fonts/check/metadata/includes_production_subsets](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/metadata/includes_production_subsets)
 
 * 💔 **ERROR** The condition <FontBakeryCondition:production_metadata> had an error: JSONDecodeError: Expecting value: line 1 column 1 (char 0)
@@ -543,16 +531,16 @@ But got:  "BIZ UD明朝" [code: bad-entry]
 * [com.google.fonts/check/unreachable_glyphs](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unreachable_glyphs)
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- glyph12051
-	- glyph01623
-	- glyph12225
-	- glyph12079
-	- glyph01271
-	- glyph12110
-	- glyph12169
-	- glyph13326
-	- glyph13679
-	- glyph01383 
+	- glyph01765
+	- glyph01710
+	- glyph12171
+	- glyph13789
+	- glyph12069
+	- glyph01870
+	- glyph01346
+	- glyph13746
+	- glyph13300
+	- glyph12129 
 	- And 1285 more.
 
 Use -F or --full-lists to disable shortening of long lists.
@@ -577,10 +565,6 @@ The following glyphs do not have the recommended number of contours:
 
 * ⚠ **WARN** chws feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-chws-feature]
 * ⚠ **WARN** vchw feature not found in font. Use chws_tool (https://github.com/googlefonts/chws_tool) to add it. [code: missing-vchw-feature]
-</div></details><details><summary>⚠ <b>WARN:</b> Check if OS/2 xAvgCharWidth is correct.</summary><div>
-* [com.google.fonts/check/xavgcharwidth](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/os2.html#com.google.fonts/check/xavgcharwidth)
-
-* ⚠ **WARN** OS/2 xAvgCharWidth is 1718 but it should be 1959 which corresponds to the average of the widths of all glyphs in the font. [code: xAvgCharWidth-wrong]
 </div></details><details><summary>⚠ <b>WARN:</b> Does the font have a DSIG table?</summary><div>
 * [com.google.fonts/check/dsig](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/dsig.html#com.google.fonts/check/dsig)
 
@@ -623,8 +607,8 @@ Use -F or --full-lists to disable shortening of long lists. [code: found-semi-ve
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 24 | 24 | 42 | 427 | 29 | 298 | 0 |
-| 3% | 3% | 5% | 51% | 3% | 35% | 0% |
+| 24 | 24 | 38 | 427 | 29 | 302 | 0 |
+| 3% | 3% | 5% | 51% | 3% | 36% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
